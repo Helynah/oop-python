@@ -2,8 +2,8 @@
 # CSC-287-01
 import adventureGame
 
-adventureGame.house_map()
+adventureGame.print_house_description()
 
 current_location = "garden"
 
-adventureGame.move(current_location)
+adventureGame.change_location(current_location)

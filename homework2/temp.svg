@@ -1,0 +1,5 @@
+
+<svg version='1.0' xmlns='http://www.w3.org/2000/svg' width='800' height='800'>
+<rect x='20' y='20' width='200' height='200' style='fill:yellow;stroke:red;'/>
+<circle cx='300' cy='300' r='50' stroke='yellow' stroke-width='2' fill='red' />
+</svg>
