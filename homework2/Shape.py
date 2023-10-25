@@ -1,3 +1,5 @@
+# Hellen M Wanyana
+
 """Shape module"""
 
 
@@ -82,4 +84,4 @@ circle1 = Circle(300, 300, 50, stroke_color="yellow", fill_color="red")
 canvas.add_shape(rectangle0)
 canvas.add_shape(circle0)
 canvas.add_shape(circle1)
-print(canvas.draw())
+canvas.draw()
